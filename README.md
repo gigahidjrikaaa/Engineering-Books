@@ -41,7 +41,3 @@ These recommendations are sorted in the order of my personal preference.
 [Hall - Adaptive Code via C#: Agile Coding with Design Patterns and SOLID Principles](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Hall%20-%20Adaptive%20Code%20via%20C%23%20Agile%20Coding%20with%20Design%20Patterns%20and%20SOLID%20Principles.pdf)  
 
 [Clark - Beginning C# Object-Oriented Programming [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Clark%20-%20Beginning%20C%23%20Object-Oriented%20Programming%20%5B2nd%20Edition%5D.pdf)  
-
-## Contributors
-Giga Hidjrika Aura Adkhy ([Infinicus](https://github.com/Infinicus))
-Ahmad Zaki Akmal ([ahmadzaki2975](https://github.com/ahmadzaki2975))
