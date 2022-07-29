@@ -22,6 +22,7 @@ These recommendations are sorted in the order of my personal preference.
 
 ## Physics
 [Randall D. Knight - Physics for Scientists and Engineers, A Strategic Approach [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Physics/Randall%20D.%20Knight%20-%20Physics%20for%20Scientists%20and%20Engineers%2C%20A%20Strategic%20Approach%20%5B2nd%20Edition%5D.pdf)  
+
 [Halliday, Resnick - Fundamentals of Physics [10th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Physics/Halliday%2C%20Resnick%20-%20Fundamentals%20of%20Physics%20%5B10th%20Edition%5D.pdf)  
 
 ## Complex Variable Analysis
@@ -33,8 +34,10 @@ These recommendations are sorted in the order of my personal preference.
 ## Programming
 ### C++
 [Deitel - C++ How to Program [10th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Deitel%20-%20C%2B%2B%20How%20To%20Program%20%5B10th%20Edition%5D.pdf)  
+
 [Stroustup - The C++ Programming Language [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Stroustrup%20-%20The%20C%2B%2B%20Programming%20Language%20%5B4th%20Edition%5D%20(2013).pdf)  
 
 ### Object-Oriented Programming
 [Hall - Adaptive Code via C#: Agile Coding with Design Patterns and SOLID Principles](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Hall%20-%20Adaptive%20Code%20via%20C%23%20Agile%20Coding%20with%20Design%20Patterns%20and%20SOLID%20Principles.pdf)  
+
 [Clark - Beginning C# Object-Oriented Programming [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Clark%20-%20Beginning%20C%23%20Object-Oriented%20Programming%20%5B2nd%20Edition%5D.pdf)  
