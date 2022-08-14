@@ -31,11 +31,8 @@ These recommendations are sorted in the order of my personal preference.
 ## Calculus (Single and Multivariable)
 [Thomas' Calculus 13th Edition](https://github.com/Infinicus/Engineering-Books/tree/main/Calculus%20(Single%20and%20Multivariable)/Thomas%20Calculus%2013th%20Edition%20with%20Solutions)  
 
-## Basic Programming
-### C++
-[Deitel - C++ How to Program [10th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Deitel%20-%20C%2B%2B%20How%20To%20Program%20%5B10th%20Edition%5D.pdf)  
-
-[Stroustup - The C++ Programming Language [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Stroustrup%20-%20The%20C%2B%2B%20Programming%20Language%20%5B4th%20Edition%5D%20(2013).pdf)  
+## Data and Computer Communications
+[Stallings - Data and Computer Communications [10th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Data%20and%20Computer%20Communications/William%20Stallings%20-%20Data%20and%20Computer%20Communications%20%5B10th%20Edition%5D%20.pdf)
 
 ## Object-Oriented Programming
 [Hall - Adaptive Code via C#: Agile Coding with Design Patterns and SOLID Principles](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Hall%20-%20Adaptive%20Code%20via%20C%23%20Agile%20Coding%20with%20Design%20Patterns%20and%20SOLID%20Principles.pdf)  
@@ -51,6 +48,18 @@ These recommendations are sorted in the order of my personal preference.
 [Oppenheim, Wilsky, Nawab - Signals & Systems [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Signals%20and%20Systems/Oppenheim%2C%20Willsky%2C%20Nawab%20-%20Signals%20%26%20Systems%20%5B2nd%20Edition%5D.pdf)
 
 [Kamen, Heck - Fundamentals of Signals and Systems Using the Web and MATLAB  [3rd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Signals%20and%20Systems/Kamen%2C%20Heck%20-%20Fundamentals%20of%20signals%20and%20systems%20using%20the%20Web%20and%20MATLAB%20%20%5B3rd%20Edition%5D%20(2014).pdf)
+
+## DC Circuit Analysis
+[Alexander, Sadiku - Fundamentals of Electric Circuits [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/DC%20Circuits%20Analysis/Alexander%2C%20Sadiku%20-%20Fundamentals%20of%20Electric%20Circuits%20%5B4th%20Edition%5D%20(2009).pdf)
+
+## Numerical Methods
+[Hoffman - Numerical Methods for Engineers and Scientists [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Numerical%20Methods/Hoffman%20-%20Numerical%20Methods%20for%20Engineers%20and%20Scientists%20%5B2nd%20Edition%5D.pdf)
+
+## Basic Programming
+#### C++
+[Deitel - C++ How to Program [10th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Deitel%20-%20C%2B%2B%20How%20To%20Program%20%5B10th%20Edition%5D.pdf)  
+
+[Stroustup - The C++ Programming Language [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Stroustrup%20-%20The%20C%2B%2B%20Programming%20Language%20%5B4th%20Edition%5D%20(2013).pdf)  
 
 ## Contributors
 ### Giga Hidjrika Aura Adkhy ([Infinicus](https://github.com/Infinicus))  
