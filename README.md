@@ -31,23 +31,23 @@ These recommendations are sorted in the order of my personal preference.
 ## Calculus (Single and Multivariable)
 [Thomas' Calculus 13th Edition](https://github.com/Infinicus/Engineering-Books/tree/main/Calculus%20(Single%20and%20Multivariable)/Thomas%20Calculus%2013th%20Edition%20with%20Solutions)  
 
-## Programming
+## Basic Programming
 ### C++
 [Deitel - C++ How to Program [10th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Deitel%20-%20C%2B%2B%20How%20To%20Program%20%5B10th%20Edition%5D.pdf)  
 
 [Stroustup - The C++ Programming Language [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Stroustrup%20-%20The%20C%2B%2B%20Programming%20Language%20%5B4th%20Edition%5D%20(2013).pdf)  
 
-### Object-Oriented Programming
+## Object-Oriented Programming
 [Hall - Adaptive Code via C#: Agile Coding with Design Patterns and SOLID Principles](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Hall%20-%20Adaptive%20Code%20via%20C%23%20Agile%20Coding%20with%20Design%20Patterns%20and%20SOLID%20Principles.pdf)  
 
 [Clark - Beginning C# Object-Oriented Programming [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Clark%20-%20Beginning%20C%23%20Object-Oriented%20Programming%20%5B2nd%20Edition%5D.pdf)  
 
-### Computer Architecture
+## Computer Architecture
 [Stallings - Computer Organization and Architecture, Designing For Performance [8th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Computer%20Architecture/William%20Stallings%20-%20Computer%20Organization%20and%20Architecture%2C%20Designing%20for%20Performance%20%5B8th%20Edition%5D%20(2011).pdf)
 
 [Hennessy, Patterson - Computer Architecture, A Quantitative Approach [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Computer%20Architecture/Hennessy%2C%20Patterson%20-%20Computer%20Architecture%20A%20Quantitative%20Approach%20%5B4th%20Edition%5D.pdf)
 
-### Signals and Systems
+## Signals and Systems
 [Oppenheim, Wilsky, Nawab - Signals & Systems [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Signals%20and%20Systems/Oppenheim%2C%20Willsky%2C%20Nawab%20-%20Signals%20%26%20Systems%20%5B2nd%20Edition%5D.pdf)
 
 [Kamen, Heck - Fundamentals of Signals and Systems Using the Web and MATLAB  [3rd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Signals%20and%20Systems/Kamen%2C%20Heck%20-%20Fundamentals%20of%20signals%20and%20systems%20using%20the%20Web%20and%20MATLAB%20%20%5B3rd%20Edition%5D%20(2014).pdf)
