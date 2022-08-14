@@ -53,7 +53,7 @@ These recommendations are sorted in the order of my personal preference.
 [Alexander, Sadiku - Fundamentals of Electric Circuits [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/DC%20Circuits%20Analysis/Alexander%2C%20Sadiku%20-%20Fundamentals%20of%20Electric%20Circuits%20%5B4th%20Edition%5D%20(2009).pdf)
 
 ## Numerical Methods
-[Hoffman - Numerical Methods for Engineers and Scientists [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Numerical%20Methods/Hoffman%20-%20Numerical%20Methods%20for%20Engineers%20and%20Scientists%20%5B2nd%20Edition%5D.pdf)
+[Hoffman - Numerical Methods for Engineers and Scientists [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Numerical%20Methods/Hoffman%20-%20Numerical%20Methods%20for%20Engineers%20and%20Scientists%20%5B2nd%20Edition%5D%20(2001).pdf)
 
 ## Basic Programming
 #### C++
