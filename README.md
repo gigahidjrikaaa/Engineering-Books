@@ -42,6 +42,16 @@ These recommendations are sorted in the order of my personal preference.
 
 [Clark - Beginning C# Object-Oriented Programming [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Clark%20-%20Beginning%20C%23%20Object-Oriented%20Programming%20%5B2nd%20Edition%5D.pdf)  
 
+### Computer Architecture
+[Stallings - Computer Organization and Architecture, Designing For Performance [8th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Computer%20Architecture/William%20Stallings%20-%20Computer%20Organization%20and%20Architecture%2C%20Designing%20for%20Performance%20%5B8th%20Edition%5D%20(2011).pdf)
+
+[Hennessy, Patterson - Computer Architecture, A Quantitative Approach [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Computer%20Architecture/Hennessy%2C%20Patterson%20-%20Computer%20Architecture%20A%20Quantitative%20Approach%20%5B4th%20Edition%5D.pdf)
+
+### Signals and Systems
+[Oppenheim, Wilsky, Nawab - Signals & Systems [2nd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Signals%20and%20Systems/Oppenheim%2C%20Willsky%2C%20Nawab%20-%20Signals%20%26%20Systems%20%5B2nd%20Edition%5D.pdf)
+
+[Kamen, Heck - Fundamentals of Signals and Systems Using the Web and MATLAB  [3rd Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Signals%20and%20Systems/Kamen%2C%20Heck%20-%20Fundamentals%20of%20signals%20and%20systems%20using%20the%20Web%20and%20MATLAB%20%20%5B3rd%20Edition%5D%20(2014).pdf)
+
 ## Contributors
 ### Giga Hidjrika Aura Adkhy ([Infinicus](https://github.com/Infinicus))  
 ### Ahmad Zaki Akmal ([ahmadzaki2975](https://github.com/ahmadzaki2975))
