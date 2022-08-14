@@ -1,6 +1,6 @@
-# Engineering-Books
-Softcopy of Engineering and Computer Science Books.
-If you want a book{s} to be taken down, please contact me.
+# Engineering Books
+Softcopy of Engineering (Electrical) and Computer Science Books.
+If you want a book(s) to be taken down, please contact me.
 I do not own any of the books. Just doing my part sharing books to fellow engineering students. Taken from different sources.
 
 I will keep updating the books based on recommendations and requests from my colleagues or anyone else. If you want to give a recommendation, DM @gigahidjrikaaa via Instagram.
@@ -8,8 +8,8 @@ I will keep updating the books based on recommendations and requests from my col
 Take note that this repo can disappear at ANY time due to copyright reasons.
 
 # Personal Recommendations
-These are the lists of books that I personally recommend. These books are the ones that I currently use in my study. Take note that I study Information Engineering at Universitas Gadjah Mada, where the curriculum is based on MIT (at least for the first 2 semesters).  
-These recommendations are sorted in the order of my personal preference.
+This is the list of books that I personally recommend. These books are the ones that I use in my studies. Take note that I study Information Engineering at Universitas Gadjah Mada, where the 2021 curriculum is based on MIT curriculum (at least for the first 2 semesters).  
+This list is not sorted in any way. You can click on the name of the book to download it.
 
 ## Linear Algebra
 [Gilbert Strang - Introduction to Linear Algebra [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Linear%20Algebra/Gilbert%20Strang%20-%20Introduction%20to%20Linear%20Algebra%20%5B4th%20Edition%5D.PDF)  
