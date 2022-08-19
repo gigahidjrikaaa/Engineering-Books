@@ -34,6 +34,8 @@ This list is not sorted in any way. You can click on the name of the book to dow
 ## Data and Computer Communications
 [Stallings - Data and Computer Communications [10th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Data%20and%20Computer%20Communications/William%20Stallings%20-%20Data%20and%20Computer%20Communications%20%5B10th%20Edition%5D%20.pdf)
 
+[Behrouz A. Forouzan - Data Communications and Networking](https://github.com/Infinicus/Engineering-Books/blob/main/Data%20and%20Computer%20Communications/Behrouz%20A.%20Forouzan%20-%20Data%20Communications%20and%20Networking.pdf)
+
 ## Object-Oriented Programming
 [Hall - Adaptive Code via C#: Agile Coding with Design Patterns and SOLID Principles](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/Object-Oriented%20Programming/Hall%20-%20Adaptive%20Code%20via%20C%23%20Agile%20Coding%20with%20Design%20Patterns%20and%20SOLID%20Principles.pdf)  
 
